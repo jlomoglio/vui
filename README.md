@@ -14,12 +14,6 @@
 
 <br>
 
-## Documentation
-
-Vui's documentation is located at <https://www.vui-kit.com/>.
-
-
-
 ## What's included
 
 Within the download you'll find the following directories and files, logically grouping common assets. You'll see something like this:
