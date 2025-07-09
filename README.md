@@ -12,9 +12,6 @@
 
 <br>
 
-## Documentation
-
-<https://www.vui-kit.com/>
 
 ## Features
 - Large set of easy to use Vue Components.
